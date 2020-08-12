@@ -1,6 +1,6 @@
-module Main where
+-- Кольцевое метро
 
--- Кольцевое метро 
+module Main where
 
 main = interact $ (\[n,a,x,b,y] -> g n x y (a,b)) . map read . words
  

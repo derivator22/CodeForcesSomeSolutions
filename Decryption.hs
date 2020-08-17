@@ -1,4 +1,5 @@
 -- Расшифровка
+-- https://codeforces.com/contest/746/problem/B
 
 main = interact $ (\[n,s] -> decode (read n) s "") . words
  

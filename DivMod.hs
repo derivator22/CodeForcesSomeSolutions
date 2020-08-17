@@ -1,4 +1,5 @@
 -- Div на Mod
+-- https://codeforces.com/contest/1085/problem/B
 
 module Main where  
  

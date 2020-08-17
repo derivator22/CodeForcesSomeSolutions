@@ -1,4 +1,5 @@
 -- Неправильное вычетание
+-- https://codeforces.com/contest/977/problem/A
 
 main = interact $ last . (\[n,k] -> take (read k + 1) $ iterate g n) . words 
   where g s | head b == '0'  = a

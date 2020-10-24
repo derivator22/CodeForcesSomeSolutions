@@ -1,1 +1,1 @@
-# Some solutions task from https://codeforces.com/
+# Some solutions tasks from https://codeforces.com/
